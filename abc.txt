@@ -1,7 +1,6 @@
 a
 b
 c
-pretty cool huh!
 d
 e
 f
